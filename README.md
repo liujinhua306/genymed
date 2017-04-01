@@ -1,0 +1,2 @@
+# genymed
+genymed 支持java程序ssh到linux操作系统并执行shell命令。同时可以获取执行后的返回结果。该类是对genymend进行封装的一个工具类。
